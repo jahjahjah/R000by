@@ -1,0 +1,9 @@
+email,full_name,address1,city,state,zip,order_id,item_id,price,order_date
+john1@example.com,John Doe,123 Main St,San Diego,CA,90000,1100,I2200,10,2014-01-01
+john1@example.com,John Doe,123 Main St,San Diego,CA,90000,1100,I5500,30,2014-01-01
+john1@example.com,John Doe,1220 Second St,San Diego,CA,90001,1101,I9900,15,2014-03-01
+mary@example.com,Mary Moore,230 First St #4,Miami,FL,33931,1205,I9011,45,2014-03-21
+darrel@example.com,Darrel Duplicator,9830 Third Ave,St Paul,MN,55494,1300,I8210,195,2014-03-22
+darrel@example.com,Darrel Duplicator,9830 Third Ave,St Paul,MN,55494,1300,I8210,195,2014-03-22
+mike@example.com,Mike Man,130 Fourth Ave,Las Vegas,NV,23494,1302,I1210,53,2014-03-23
+mike@example.com,Mike Man,130 Fourth Ave,Las Vegas,NV,23494,1303,I1210,53,2014-03-24
